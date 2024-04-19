@@ -1,0 +1,20 @@
+{
+  "name": "code_with_fajur_currency_converter",
+  "version": "1.0.0",
+  "description": "This project is about Currency Conversion in which i mention many currencies with their exchange rates,this project  is done with the help of using typescript,node.js,inquirer and chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DUA MAJEED",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
